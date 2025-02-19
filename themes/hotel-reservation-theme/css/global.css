@@ -9146,6 +9146,8 @@ a.link {
   text-decoration: none;
 }
 
+/** ==================================== */
+
 /* custom hero section dark overlay */
 .header-container {
   position: relative;
@@ -9224,5 +9226,44 @@ a.link {
       max-width: 100%;
   }
 }
+
+/* header custom nav css */
+@media (max-width: 768px) { 
+  .custom-nav {
+      display: none !important;  /* Hides the menu on mobile */
+  }
+}
+
+
+.header-flex {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.custom-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  margin: 0;
+  padding: 0;
+}
+
+.custom-nav ul li {
+  display: inline-block;
+}
+
+.custom-nav ul li a {
+  text-decoration: none;
+  color: white; /* Adjust based on your design */
+  font-size: 16px;
+  font-weight: 600;
+  padding: 10px 15px;
+}
+
+.custom-nav ul li a:hover {
+  color: #FFD700; /* Change color on hover */
+}
+
 
 

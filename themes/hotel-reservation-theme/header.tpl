@@ -112,11 +112,20 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-xs-12">
-										<div id="header_logo">
-											<a href="{if isset($force_ssl) && $force_ssl}{$base_dir_ssl}{else}{$base_dir}{/if}" title="{$shop_name|escape:'html':'UTF-8'}">
-												<img class="logo img-responsive" src="{$logo_url}" alt="{$shop_name|escape:'html':'UTF-8'}"/>
-											</a>
+									<div id="header_logo" class="header-flex">
+										<a href="{if isset($force_ssl) && $force_ssl}{$base_dir_ssl}{else}{$base_dir}{/if}" title="{$shop_name|escape:'html':'UTF-8'}">
+											<img class="logo img-responsive" src="{$logo_url}" alt="{$shop_name|escape:'html':'UTF-8'}"/>
+										</a>
+										<div class="custom-nav">
+											<ul>
+												<li><a class="navigation-link" href="/qloapps/#hotelInteriorBlock">Interior</a></li>
+												<li><a class="navigation-link" href="/qloapps/#hotelAmenitiesBlock">Amenities</a></li>
+												<li><a class="navigation-link" href="/qloapps/#hotelRoomsBlock">Rooms</a></li>
+												<li><a class="navigation-link" href="/qloapps/#hotelTestimonialBlock">Testimonials</a></li>
+											</ul>
 										</div>
+									</div>
+							
 										<div class="header-top-menu">
 											{block name='displayTop'}
 												{if isset($HOOK_TOP)}{$HOOK_TOP}{/if}
