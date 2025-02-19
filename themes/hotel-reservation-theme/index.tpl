@@ -55,56 +55,56 @@
 							<div class="row">
 									<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 										<div class="amenity_img_primary">
-											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/1.jpg" 
-												alt="This is a title"
+											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe1.jpg" 
+												alt="Nettoyage Professionnel"
 												class="img-responsive amenity-image"/>
 										</div>
 										<div class="amenity_desc_primary">
-											<p class="amenity_heading">This is a title</p>
+											<p class="amenity_heading">Nettoyage Professionnel</p>
 											<p class="amenity_description">{$amenity['feature_description']|escape:'htmlall':'UTF-8'}</p>
 										</div>
 									</div>
 									<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 										<div class="amenity_img_primary">
-											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/1.jpg" 
-												alt="This is a title"
+											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe2.jpg" 
+												alt="WiFi à Fibre Optique"
 												class="img-responsive amenity-image"/>
 										</div>
 										<div class="amenity_desc_primary">
-											<p class="amenity_heading">This is a title</p>
+											<p class="amenity_heading">WiFi à Fibre Optique</p>
 											<p class="amenity_description">{$amenity['feature_description']|escape:'htmlall':'UTF-8'}</p>
 										</div>
 									</div>
 									<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 										<div class="amenity_img_primary">
-											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/1.jpg" 
-												alt="This is a title"
+											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe3.jpg" 
+												alt="Cuisine équipée"
 												class="img-responsive amenity-image"/>
 										</div>
 										<div class="amenity_desc_primary">
-											<p class="amenity_heading">This is a title</p>
+											<p class="amenity_heading">Cuisine équipée</p>
 											<p class="amenity_description">{$amenity['feature_description']|escape:'htmlall':'UTF-8'}</p>
 										</div>
 									</div>
 									<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 										<div class="amenity_img_primary">
-											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/1.jpg" 
-												alt="This is a title"
+											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe4.png" 
+												alt="Produits de douche"
 												class="img-responsive amenity-image"/>
 										</div>
 										<div class="amenity_desc_primary">
-											<p class="amenity_heading">This is a title</p>
+											<p class="amenity_heading">Produits de douche</p>
 											<p class="amenity_description">{$amenity['feature_description']|escape:'htmlall':'UTF-8'}</p>
 										</div>
 									</div>
 									<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 										<div class="amenity_img_primary">
-											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/1.jpg" 
+											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe5.webp" 
 												alt="This is a title"
 												class="img-responsive amenity-image"/>
 										</div>
 										<div class="amenity_desc_primary">
-											<p class="amenity_heading">This is a title</p>
+											<p class="amenity_heading">Accès sans clef</p>
 											<p class="amenity_description">{$amenity['feature_description']|escape:'htmlall':'UTF-8'}</p>
 										</div>
 									</div>
@@ -112,56 +112,56 @@
 							<div class="row">
 									<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 										<div class="amenity_img_primary">
-											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/1.jpg" 
+											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe6.jpg" 
 												alt="This is a title"
 												class="img-responsive amenity-image"/>
 										</div>
 										<div class="amenity_desc_primary">
-											<p class="amenity_heading">This is a title</p>
+											<p class="amenity_heading">Literie confortable</p>
 											<p class="amenity_description">{$amenity['feature_description']|escape:'htmlall':'UTF-8'}</p>
 										</div>
 									</div>
 									<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 										<div class="amenity_img_primary">
-											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/1.jpg" 
-												alt="This is a title"
+											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe7.jpg" 
+												alt="Machine à laver"
 												class="img-responsive amenity-image"/>
 										</div>
 										<div class="amenity_desc_primary">
-											<p class="amenity_heading">This is a title</p>
+											<p class="amenity_heading">Machine à laver</p>
 											<p class="amenity_description">{$amenity['feature_description']|escape:'htmlall':'UTF-8'}</p>
 										</div>
 									</div>
 									<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 										<div class="amenity_img_primary">
-											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/1.jpg" 
-												alt="This is a title"
+											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe8.jpg" 
+												alt="Machine à café"
 												class="img-responsive amenity-image"/>
 										</div>
 										<div class="amenity_desc_primary">
-											<p class="amenity_heading">This is a title</p>
+											<p class="amenity_heading">Machine à café</p>
 											<p class="amenity_description">{$amenity['feature_description']|escape:'htmlall':'UTF-8'}</p>
 										</div>
 									</div>
 									<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 										<div class="amenity_img_primary">
-											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/1.jpg" 
-												alt="This is a title"
+											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe9.jpg" 
+												alt="Serviettes de bain"
 												class="img-responsive amenity-image"/>
 										</div>
 										<div class="amenity_desc_primary">
-											<p class="amenity_heading">This is a title</p>
+											<p class="amenity_heading">Serviettes de bain</p>
 											<p class="amenity_description">{$amenity['feature_description']|escape:'htmlall':'UTF-8'}</p>
 										</div>
 									</div>
 									<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 										<div class="amenity_img_primary">
-											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/1.jpg" 
-												alt="This is a title"
+											<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe10.jpg" 
+												alt="Conceirgeirie disponible 24/7"
 												class="img-responsive amenity-image"/>
 										</div>
 										<div class="amenity_desc_primary">
-											<p class="amenity_heading">This is a title</p>
+											<p class="amenity_heading">Conceirgeirie disponible 24/7</p>
 											<p class="amenity_description">{$amenity['feature_description']|escape:'htmlall':'UTF-8'}</p>
 										</div>
 									</div>
