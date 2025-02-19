@@ -122,6 +122,8 @@
 												<li><a class="navigation-link" href="/qloapps/#hotelAmenitiesBlock">Amenities</a></li>
 												<li><a class="navigation-link" href="/qloapps/#hotelRoomsBlock">Rooms</a></li>
 												<li><a class="navigation-link" href="/qloapps/#hotelTestimonialBlock">Testimonials</a></li>
+												<li><a class="navigation-link" href="/qloapps/#hotelEquipmentBlock">Equipements</a></li>
+												<li><a class="navigation-link" href="/qloapps/#blogBlock">Blogs</a></li>
 											</ul>
 										</div>
 									</div>

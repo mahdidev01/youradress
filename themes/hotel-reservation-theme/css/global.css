@@ -9227,7 +9227,7 @@ a.link {
   }
 }
 
-/* header custom nav css */
+/* header custom nav css to inline */
 @media (max-width: 768px) { 
   .custom-nav {
       display: none !important;  /* Hides the menu on mobile */
@@ -9264,6 +9264,41 @@ a.link {
 .custom-nav ul li a:hover {
   color: #FFD700; /* Change color on hover */
 }
+
+/* custom block blogs style */
+
+.blog-card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  text-align: center;
+}
+.blog-card:hover {
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+.blog-card h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+.blog-card a {
+  color: #ffffff;
+  text-decoration: none;
+}
+a.blog-title {
+  color: #333333;
+}
+.blog-thumbnail {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  object-fit: cover;
+}
+
+
+
 
 
 
