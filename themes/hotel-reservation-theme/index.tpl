@@ -42,20 +42,19 @@
 {/block}
 <div id="hotelEquipmentBlock" class="row home_block_container">
 	<div class="col-xs-12 col-sm-12 home_amenities_wrapper">
-		{if $HOTEL_AMENITIES_HEADING && $HOTEL_AMENITIES_DESCRIPTION}
+		{* {if $HOTEL_AMENITIES_HEADING && $HOTEL_AMENITIES_DESCRIPTION} *}
 			<div class="home_block_desc_wrapper text-center">
 				<p class="home_block_heading">Des lieux de vie équipés pour votre bien-être.</p>
 				<p class="home_block_description">Luxe, flexibilité et innovation. Louez en toute sérénité avec des services haut de gamme.</p>
 				<hr class="home_block_desc_line"/>
 			</div>
-		{/if}
-
+		{* {/if} *}
 		{block name='hotel_features_images'}
 			<div class="homeAmenitiesBlock home_block_content">
 				<div class="row">
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 							<div class="amenity_img_primary">
-								<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe1.jpg" 
+								<img src="/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe1.jpg" 
 									alt="Nettoyage Professionnel"
 									class="img-responsive amenity-image"/>
 							</div>
@@ -66,7 +65,7 @@
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 							<div class="amenity_img_primary">
-								<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe2.jpg" 
+								<img src="/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe2.jpg" 
 									alt="WiFi à Fibre Optique"
 									class="img-responsive amenity-image"/>
 							</div>
@@ -77,7 +76,7 @@
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 							<div class="amenity_img_primary">
-								<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe3.jpg" 
+								<img src="/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe3.jpg" 
 									alt="Cuisine équipée"
 									class="img-responsive amenity-image"/>
 							</div>
@@ -88,7 +87,7 @@
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 							<div class="amenity_img_primary">
-								<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe4.png" 
+								<img src="/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe4.png" 
 									alt="Produits de douche"
 									class="img-responsive amenity-image"/>
 							</div>
@@ -99,7 +98,7 @@
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 							<div class="amenity_img_primary">
-								<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe5.webp" 
+								<img src="/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe5.webp" 
 									alt="This is a title"
 									class="img-responsive amenity-image"/>
 							</div>
@@ -112,7 +111,7 @@
 				<div class="row">
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 							<div class="amenity_img_primary">
-								<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe6.jpg" 
+								<img src="/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe6.jpg" 
 									alt="This is a title"
 									class="img-responsive amenity-image"/>
 							</div>
@@ -123,7 +122,7 @@
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 							<div class="amenity_img_primary">
-								<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe7.jpg" 
+								<img src="/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe7.jpg" 
 									alt="Machine à laver"
 									class="img-responsive amenity-image"/>
 							</div>
@@ -134,7 +133,7 @@
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 							<div class="amenity_img_primary">
-								<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe8.jpg" 
+								<img src="/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe8.jpg" 
 									alt="Machine à café"
 									class="img-responsive amenity-image"/>
 							</div>
@@ -145,7 +144,7 @@
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 							<div class="amenity_img_primary">
-								<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe9.jpg" 
+								<img src="/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe9.jpg" 
 									alt="Serviettes de bain"
 									class="img-responsive amenity-image"/>
 							</div>
@@ -156,7 +155,7 @@
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center amenity-item">
 							<div class="amenity_img_primary">
-								<img src="http://localhost/qloapps/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe10.jpg" 
+								<img src="/modules/wkhotelfeaturesblock/views/img/hotels_features_img/equipe10.jpg" 
 									alt="Conceirgeirie disponible 24/7"
 									class="img-responsive amenity-image"/>
 							</div>
@@ -175,7 +174,7 @@
         <div class="col-xs-12 col-sm-12 home_blog_wrapper">
             <div class="row home_block_desc_wrapper">
                 <div class="col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
-                    <p class="home_block_heading">Nos Derniers Articles</p>
+                    <p class="home_block_heading">Conseils de voyage</p>
                     <p class="home_block_description">Découvrez les dernières actualités et conseils pour votre séjour.</p>
                     <hr class="home_block_desc_line"/>
                 </div>
@@ -186,16 +185,32 @@
                 
                 {if $blogPages}
                     <div class="row">
-                        {foreach from=$blogPages item=blog}
+
                             <div class="col-md-4">
                                 <div class="blog-card">
-									<img src="http://localhost/qloapps/img/cms/cms-img.jpg" alt="Default Image" class="blog-thumbnail">
-                                    <h3><a class="blog-title" href="{$link->getCMSLink($blog.id_cms, $blog.link_rewrite)}">{$blog.meta_title|escape:'htmlall':'UTF-8'}</a></h3>
-                                    <p>{$blog.meta_description|truncate:100:'...'}</p>
-                                    <a href="{$link->getCMSLink($blog.id_cms, $blog.link_rewrite)}" class="btn btn-warning">Lire Plus</a>
+									<img src="http://youradress.com/img/cms/pexels-denon-studio-480815530-20734776.jpg" alt="Default Image" class="blog-thumbnail" style="height: 240px;">
+                                    <h3><a class="blog-title" href="http://youradress.com/fr/content/7-meilleurs-spots-randonnee-quad-buggy-maroc">Aventure en quad et buggy : explorez le Maroc sauvage</a></h3>
+                                    <p>Découvrez les plus beaux paysages du Maroc en quad et buggy ! Des dunes aux montagnes...</p>
+                                    <a href="http://youradress.com/fr/content/7-meilleurs-spots-randonnee-quad-buggy-maroc" class="btn btn-warning">Lire Plus</a>
                                 </div>
                             </div>
-                        {/foreach}
+                            <div class="col-md-4">
+                                <div class="blog-card">
+									<img src="http://youradress.com/img/cms/pexels-mographe-11294565.jpg" alt="Default Image" class="blog-thumbnail" style="height: 240px;">
+                                    <h3><a class="blog-title" href="http://youradress.com/fr/content/8-escapade-en-montagne"> Escapade en montagne									</a></h3>
+                                    <p>Le Maroc est un véritable paradis pour les amateurs de sensations fortes et d’aventure en plein air...</p>
+                                    <a href="http://youradress.com/fr/content/8-escapade-en-montagne" class="btn btn-warning">Lire Plus</a>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="blog-card">
+									<img src="http://youradress.com/img/cms/pexels-messalaciulla-989255.jpg" alt="Default Image" class="blog-thumbnail" style="height: 240px;">
+                                    <h3><a class="blog-title" href="http://youradress.com/fr/content/9-randonnee-dans-le-desert"> Aventure en quad et buggy : explorez le Maroc sauvage</a></h3>
+                                    <p>Le Maroc est un véritable paradis pour les amateurs de sensations fortes et d’aventure en plein air. Avec ses déserts...</p>
+                                    <a href="http://youradress.com/fr/content/9-randonnee-dans-le-desert" class="btn btn-warning">Lire Plus</a>
+                                </div>
+                            </div>
+
                     </div>
                 {else}
                     <p>Aucun article disponible.</p>

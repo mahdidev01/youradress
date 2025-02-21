@@ -20,12 +20,12 @@
 {if $email != ''}
     <div class="contact-item">
         <i class="icon-envelope-o"></i>
-        <a href="mailto:{$email}">{$email}</a>
+        <a href="mailto:contact@youradress.com">contact@youradress.com</a>
     </div>
 {/if}
 {if $phone != ''}
     <div class="contact-item">
         <i class="icon-phone"></i>
-        <a href="tel:{$phone}">{$phone}</a>
+        <a href="tel:+212 6 67 291 575">+212 6 67 291 575</a>
     </div>
 {/if}

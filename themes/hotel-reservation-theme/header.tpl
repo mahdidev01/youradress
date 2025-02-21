@@ -109,7 +109,7 @@
 					{/block}
 					{block name='header_top'}
 						<div class="header-top">
-							<div class="container">
+							<div class="container custom">
 								<div class="row">
 									<div class="col-xs-12">
 									<div id="header_logo" class="header-flex">
@@ -118,12 +118,12 @@
 										</a>
 										<div class="custom-nav">
 											<ul>
-												<li><a class="navigation-link" href="/qloapps/#hotelInteriorBlock">Interior</a></li>
-												<li><a class="navigation-link" href="/qloapps/#hotelAmenitiesBlock">Amenities</a></li>
-												<li><a class="navigation-link" href="/qloapps/#hotelRoomsBlock">Rooms</a></li>
-												<li><a class="navigation-link" href="/qloapps/#hotelTestimonialBlock">Testimonials</a></li>
-												<li><a class="navigation-link" href="/qloapps/#hotelEquipmentBlock">Equipements</a></li>
-												<li><a class="navigation-link" href="/qloapps/#blogBlock">Blogs</a></li>
+												<li><a class="navigation-link" href="#">Hébergements</a></li>
+												{* <li><a class="navigation-link" href="/qloapps/#hotelAmenitiesBlock">Location Voiture</a></li>
+												<li><a class="navigation-link" href="/qloapps/#hotelRoomsBlock">Où Sortir</a></li>
+												<li><a class="navigation-link" href="/qloapps/#hotelTestimonialBlock">Transfére Aéroport/Gare</a></li> *}
+												<li><a class="navigation-link" href="#">Conseils de Voyage</a></li>
+												<li><a class="navigation-link" href="#">Contact</a></li>
 											</ul>
 										</div>
 									</div>

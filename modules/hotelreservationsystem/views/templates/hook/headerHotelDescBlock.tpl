@@ -23,7 +23,7 @@
 			<div class="header-desc-primary">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
+						<div class="col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8 custom">
 							<p class="header-desc-welcome">{l s='Welcome To' mod='hotelreservationsystem'}</p>
 							<hr class="heasder-desc-hr-first"/>
 							<div class="header-desc-inner-wrapper">

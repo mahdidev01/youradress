@@ -87,3 +87,7 @@ Tools::safeDefine('_PS_CURRENCY_FEED_URL_',            _PS_API_URL_.'/xml/curren
 Tools::safeDefine('_QLO_API_DOMAIN_',                'api.qloapps.com');
 Tools::safeDefine('_QLO_API_URL_',                    'https://'._QLO_API_DOMAIN_);
 Tools::safeDefine('_QLO_TAB_MODULE_LIST_URL_',        _QLO_API_URL_.'/xml/tab_modules_list.xml');
+
+@ini_set('session.gc_maxlifetime', 14400);
+@ini_set('session.cookie_lifetime', 14400);
+
